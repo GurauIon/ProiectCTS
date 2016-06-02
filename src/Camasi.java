@@ -11,4 +11,5 @@ public abstract  class Camasi implements IComponenta {
 
 	@Override
 	public abstract float pret() ;
+	//gurau
 }
